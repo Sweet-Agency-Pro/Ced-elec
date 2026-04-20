@@ -54,7 +54,7 @@ export default function AProposPage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden">
                 <Image
                   src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=600&fit=crop"
-                  alt="Cédric Dos Santos — Fondateur de Ced'elec"
+                  alt="Cédric Dos Santos - Fondateur de Ced'elec"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 100vw, 50vw"

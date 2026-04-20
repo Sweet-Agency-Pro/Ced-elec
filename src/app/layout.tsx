@@ -22,8 +22,8 @@ const openSans = Open_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Ced'elec — Électricien en Alsace",
-    template: "%s | Ced'elec — Électricien en Alsace",
+    default: "Ced'elec - Électricien en Alsace",
+    template: "%s | Ced'elec - Électricien en Alsace",
   },
   description:
     "Ced'elec, votre électricien de confiance en Alsace. Installation, rénovation, mise aux normes électriques à Strasbourg et environs. Noté 5/5 sur Google.",

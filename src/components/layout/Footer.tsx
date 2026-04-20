@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 md:px-6 py-12 md:py-16">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
-          {/* Col 1 — Brand */}
+          {/* Col 1 - Brand */}
           <div>
             <Image
               src="/images/logo.png"
@@ -33,7 +33,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Col 2 — Navigation */}
+          {/* Col 2 - Navigation */}
           <div>
             <h3 className="font-bold text-sm uppercase tracking-wider mb-4">
               Plan du site
@@ -60,7 +60,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Col 3 — Services */}
+          {/* Col 3 - Services */}
           <div>
             <h3 className="font-bold text-sm uppercase tracking-wider mb-4">
               Nos services
@@ -79,7 +79,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Col 4 — Contact */}
+          {/* Col 4 - Contact */}
           <div>
             <h3 className="font-bold text-sm uppercase tracking-wider mb-4">
               Nous contacter
@@ -119,7 +119,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 md:px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-white/50 text-sm">
-          <p>© 2026 Ced&apos;elec — Tous droits réservés</p>
+          <p>© 2026 Ced&apos;elec - Tous droits réservés</p>
           <Link
             href="/mentions-legales"
             className="hover:text-white transition-colors"

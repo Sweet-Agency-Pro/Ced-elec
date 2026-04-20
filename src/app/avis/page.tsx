@@ -31,7 +31,7 @@ export default async function AvisPage() {
             Avis de nos clients
           </h1>
           <div className="inline-flex items-center gap-2 bg-lime/20 text-lime px-4 py-2 rounded-full text-sm font-medium">
-            ⭐ {GOOGLE_RATING.score}/5 — {GOOGLE_RATING.count} avis sur Google
+            ⭐ {GOOGLE_RATING.score}/5 - {GOOGLE_RATING.count} avis sur Google
           </div>
         </div>
       </section>

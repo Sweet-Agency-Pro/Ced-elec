@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Mentions légales",
-  description: "Mentions légales du site Ced'elec — Électricien en Alsace.",
+  description: "Mentions légales du site Ced'elec - Électricien en Alsace.",
 };
 
 export default function MentionsLegalesPage() {
@@ -17,7 +17,7 @@ export default function MentionsLegalesPage() {
           Éditeur du site
         </h2>
         <p className="text-gray-text leading-relaxed">
-          <strong className="text-navy">Ced&apos;elec — Électricité générale</strong>
+          <strong className="text-navy">Ced&apos;elec - Électricité générale</strong>
           <br />
           M. Cédric Dos Santos
           <br />

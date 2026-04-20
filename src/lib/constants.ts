@@ -7,7 +7,7 @@ export const CONTACT = {
   phone: "07 60 35 44 75",
   phoneHref: "tel:+33760354475",
   email: "cedricelec@gmail.com",
-  zone: "Alsace — Strasbourg et environs",
+  zone: "Alsace - Strasbourg et environs",
   hours: "Lun-Ven : 8h-18h",
 } as const;
 

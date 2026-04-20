@@ -61,7 +61,7 @@ export const services: Service[] = [
     description:
       "La mise aux normes de votre installation électrique est essentielle pour votre sécurité et obligatoire en cas de vente ou location. Nous réalisons le diagnostic, les travaux de mise en conformité et vous accompagnons dans vos démarches Consuel.",
     icon: ShieldCheck,
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?w=800&h=600&fit=crop",
     features: [
       "Diagnostic de l'installation",
       "Mise en conformité NF C 15-100",

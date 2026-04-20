@@ -27,7 +27,7 @@ export default function HeroSection() {
           transition={{ duration: 0.6 }}
           className="inline-flex items-center gap-2 bg-lime/20 text-lime px-4 py-2 rounded-full text-sm font-medium mb-6"
         >
-          ⭐ Noté {GOOGLE_RATING.score}/5 sur Google — {GOOGLE_RATING.count}{" "}
+          ⭐ Noté {GOOGLE_RATING.score}/5 sur Google - {GOOGLE_RATING.count}{" "}
           avis
         </motion.div>
 
